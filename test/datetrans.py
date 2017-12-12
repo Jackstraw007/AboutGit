@@ -8,3 +8,4 @@ dt_new = time.strftime("%Y-%m-%d",timeArray)
 ##############################
 #Asc.py
 ###
+#来自git的修改
